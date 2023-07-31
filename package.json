@@ -1,0 +1,15 @@
+{
+  "name": "pwa-app",
+  "version": "1.0.0",
+  "description": "Minha primeira PWA app com Vanilla JS(puro).",
+  "main": ": index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "Éder Amorim",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^14.2.0"
+  }
+}
