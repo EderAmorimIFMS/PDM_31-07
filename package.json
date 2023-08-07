@@ -1,5 +1,5 @@
 {
-  "name": "pwa-app",
+  "name": "my-first-pwa",
   "version": "1.0.0",
   "description": "Minha primeira PWA app com Vanilla JS(puro).",
   "main": ": index.html",
@@ -10,6 +10,7 @@
   "author": "Éder Amorim",
   "license": "ISC",
   "dependencies": {
-    "serve": "^14.2.0"
+    "serve": "^14.2.0",
+    "server": "^1.0.38"
   }
 }
